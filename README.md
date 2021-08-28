@@ -75,6 +75,23 @@ title: "サンプル"
 
 ---
 
+
+### VS Code あれこれ種類
+* VS Code Stable (安定板)
+* VS Code Insiders
+* VS Code Exploration
+* Code - OSS
+* Codespace   
+<img src="2021-08-28-12-41-05.png" width="600">
+
+---
+
+## GitHub - Visual Studio Code
+ソースコード公開
+https://github.com/microsoft/vscode
+
+---
+
 ### VS Code 拡張機能を活用する
 * VS Code Marketplace
 * 29,000超えの拡張機能
@@ -100,6 +117,16 @@ title: "サンプル"
 * パブリッククラウド
 * AI / Machine Learning
 * プログラミング
+
+---
+
+### 超絶おすすめしたいもの
+
+## GitHub
+
+VS Codeとの相性抜群✨
+
+---
 
 ### 将来、学習しておくとお得な分野
 <br>
@@ -131,6 +158,21 @@ VS Codeを通じて貢献できることはたくさんある
 
 ---
 
+## VS Code Conference 2021開催決定🎉
+
+### テーマ: Happy Extension
+
+⭐️セッション一般公募へ応募ください！
+
+* 開催日: 2021年11月20日(土)  
+* 開催形式: オンライン
+* 参加費用: 無料  
+* 申込み: VS Code Meetup (connpass)ページ
+
+https://vscode.connpass.com/event/221961/
+
+---
+
 ### まとめ
 
 * 自分とVS Codeの可能性を信じる  
@@ -142,3 +184,11 @@ VS Codeを通じて貢献できることはたくさんある
 * OSSに貢献していくことはスキルの幅を拡張させてくれる
 
 ---
+
+### 本セッションの出演 💻
+
+* 職業「戸倉彩」 @ayatokura
+
+* VS Code Insiders v1.60.0
+
+* GitHub Codespaces
